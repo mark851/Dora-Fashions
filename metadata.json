@@ -1,0 +1,6 @@
+{
+  "name": "Dora Fashions",
+  "description": "Dora Fashions - Premium bag beads, crystal & pearl beads, jewelry supplies, live community reviews, and orders in Uganda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
